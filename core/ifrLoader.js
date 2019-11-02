@@ -1,0 +1,1 @@
+localStorage.setItem('html_global', document.getElementById('data').innerHTML);
